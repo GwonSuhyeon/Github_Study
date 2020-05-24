@@ -1,3 +1,4 @@
 color : orange
 weight : 120g
 quantity : 5
+quality : high

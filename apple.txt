@@ -1,3 +1,4 @@
 color : red
 weight : 100g
 quantity : 10
+quality : high
