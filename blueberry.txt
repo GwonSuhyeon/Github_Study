@@ -1,0 +1,4 @@
+color : blue
+weight : 130g
+quantity : 15
+quality : high
