@@ -1,0 +1,4 @@
+color : yellow
+weight : 70g
+quantity : 8
+quality : medium
